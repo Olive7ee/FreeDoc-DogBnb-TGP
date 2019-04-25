@@ -11,4 +11,4 @@ This README includes the code to generate a db with conecctions for Freedoc, Dog
 
 * ROOOOLLLLBAAAAACKKKKK until you die!!!
 
-# Thibault Phommasone, Olivier Vlle, Alexandre Moutapam, Rodrigo Vallejos, 
+# Thibault Phommasone, Olivier Vlle, Alexandre Moutapam, Rodrigo Vallejos
