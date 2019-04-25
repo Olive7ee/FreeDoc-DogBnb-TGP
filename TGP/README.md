@@ -10,5 +10,3 @@ This README includes the code to generate a db with conecctions for TGP_app.
 * Database creation
 
 * ROOOOLLLLBAAAAACKKKKK
-
-# Rodrigo Vallejos
